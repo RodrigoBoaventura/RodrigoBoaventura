@@ -4,20 +4,6 @@
 Desenvolvedor Front-End | HTML • CSS • JavaScript • React
 </p>
 
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="170em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=RodrigoBoaventura&show_icons=true&theme=tokyonight"/> <img height="170em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RodrigoBoaventura&layout=compact&theme=tokyonight"/>
-
- 
-</p>
-
----
-
 ## 🚀 Tecnologias
 
 <div align="center">
